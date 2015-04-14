@@ -1,0 +1,7 @@
+name: event_listener
+version: 0.0.1
+author: Brandon White <jennexproject+eventlistener@gmail.com>
+description: An extremely useful Function store for setting an event to an ID, then returning a stream, and allowing other scripts to send data to that event listener by using the ID for it.
+homepage: http://jennex.it/now/dev
+environment:
+  sdk: '>=1.6.0 <2.0.0'
